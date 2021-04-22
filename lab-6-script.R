@@ -19,7 +19,11 @@ fish_long <-
   print()
 
 
-# do stuff ----------------------------------------------------------------
+# Question A t-test -------------------------------------------------------
 
-fish_ttest <- t.test(species ~ location, data = fish_long)
-fish_ttest$estimate
+
+# Question B difference in means -----------------------------------------
+
+
+# Question C histograms --------------------------------------------------
+
