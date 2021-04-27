@@ -1,5 +1,5 @@
 ---
-title: "Lab 6 Comparing two means"
+title: "Lab 6 Comparing means"
 author: ""
 date: "`r Sys.Date()`"
 output: github_document
