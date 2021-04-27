@@ -5,6 +5,10 @@ date: "`r Sys.Date()`"
 output: github_document
 ---
 
+Fill out this report and submit it as your completed assignment.
+
+You can view the R markdown script that created this report here: [README.Rmd](README.Rmd)
+
 ## $t$-test
 
 Researchers studying the number of electric fish species living in various parts of the Amazon basin were interested in whether the presence of tributaries affected the local number of electric fish species in the main rivers (Fernandes et al. 2004).
