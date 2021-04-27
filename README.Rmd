@@ -57,7 +57,7 @@ They measured the body temperature of crabs every 10 minutes for 1.5 hours. Thes
 
 ### Question D
 
-Graph the distribution of body temperatures for each crab type:
+> Graph the distribution of body temperatures for each crab type:
 
 ```{r}
 
@@ -65,7 +65,7 @@ Graph the distribution of body temperatures for each crab type:
 
 ### Question E
 
-Does body temperature varies among crab types? State the null and alternative hypothesis, conduct and ANOVA, and interpret the results.
+> Does body temperature vary among crab types? State the null and alternative hypothesis, conduct and ANOVA, and interpret the results.
 
 ```{r}
 
